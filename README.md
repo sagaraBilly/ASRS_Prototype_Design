@@ -26,7 +26,9 @@ Electronics hardware components that are used are as follows:
 10. Power Supply 12A 20V
 11. Potentiometer or possibly variable resistor.
 
+<br>
 ![Alt text](Electrical Components Design.png)
+<br>
 ![Alt text](ASRS Prototype Engineering Drawing.png)
 
 All the design image is included in the repository except the CAD file. 
