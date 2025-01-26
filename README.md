@@ -6,6 +6,9 @@ This Program is created by Billy Sagara for Bachelor Thesis Completion
 This repository shares the Arduino code that I made for designing a prototype of AS/RS machine [Automated Storage and Retrieval System].  
 It is a single code that includes all the controls of both sensors and actuators. 
 
+Please feel free to look, copy, and modify the code, but if you do so, please ensure that you provide attribution by referencing the original author. 
+Apache License 2.0
+
 1 File Program consists of three sections;
 - define stage (defining pins, etc)
 - initial stage (setting initial value)
