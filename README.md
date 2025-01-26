@@ -3,9 +3,6 @@
 This Program is created by Billy Sagara for Bachelor Thesis Completion
        [2019-08] Copyrighted by Catholic Parahyangan University 
 
-#Feel free to look and copy some of the parts BUT PLEASE DO NOT COPY ALL THE CONTENTS AS IT IS WITHOUT CONSENT
-#This is indicated only for people to see, learn, and pick some certain parts to be implemented
-
 This repository shares the Arduino code that I made for designing a prototype of AS/RS machine [Automated Storage and Retrieval System].  
 It is a single code that includes all the controls of both sensors and actuators. 
 
