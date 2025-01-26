@@ -23,6 +23,8 @@ Hardware spesifications that is used are as follows:
 7. RFID Sensors and RFID Cards [Will be replaced by Barcode Scanner later in the future]
 8. LCD Display 
 9. Push Buttons (for manual adjustment input)
+10. Power Supply 12A 20V
+11. Potentiometer or possibly variable resistor.
 
 For more details on the design and test results, please see the research publication report.
 IOP Conference Series: Materials Science and Engineering
