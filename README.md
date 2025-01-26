@@ -12,9 +12,9 @@ It is a single code that includes all the controls of both sensors and actuators
 1 File Program consists of three sections;
 - define stage (defining pins, etc)
 - initial stage (setting initial value)
-- loop stage (main contents : input and output process)
+- loop stage (main contents: input and output process)
 
-Hardware spesifications that is used are as follows:
+Electronics hardware components that is used are as follows:
 1. Arduino Mega2560 
 2. RAMP 1.4 Shield 
 3. NEMA 17 Stepper Motor 
