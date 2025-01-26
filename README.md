@@ -26,9 +26,14 @@ Electronics hardware components that are used are as follows:
 10. Power Supply 12A 20V
 11. Potentiometer or possibly variable resistor.
 
-All the design image is included in the repository except the CAD file. 
+Electronic Schematic<br>
+![Alt text](Electrical-Components-Design.png)
 
-For more details on the design and test results, please see the research publication report.
+CAD Mechanical Design:<br>
+![Alt text](ASRS-Prototype-Engineering-Drawing.png)
+
+All the design image is included in the repository except the CAD file. 
+For more details regarding the mechanical components, test results, detail analysis, please see the research publication.
 IOP Conference Series: Materials Science and Engineering
 https://iopscience.iop.org/article/10.1088/1757-899X/847/1/012072
 
