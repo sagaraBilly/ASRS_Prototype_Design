@@ -14,7 +14,7 @@ Apache License 2.0
 - initial stage (setting initial value)
 - loop stage (main contents: input and output process)
 
-Electronics hardware components that is used are as follows:
+Electronics hardware components that are used are as follows:
 1. Arduino Mega2560 
 2. RAMP 1.4 Shield 
 3. NEMA 17 Stepper Motor 
@@ -26,7 +26,10 @@ Electronics hardware components that is used are as follows:
 10. Power Supply 12A 20V
 11. Potentiometer or possibly variable resistor.
 
-The designs of the prototype is included in the repository as image.
+![Alt text](Electrical Components Design.png)
+![Alt text](ASRS Prototype Engineering Drawing.png)
+
+All the design image is included in the repository except the CAD file. 
 
 For more details on the design and test results, please see the research publication report.
 IOP Conference Series: Materials Science and Engineering
