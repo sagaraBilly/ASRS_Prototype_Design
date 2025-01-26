@@ -3,7 +3,7 @@
 This Program is created by Billy Sagara for Bachelor Thesis Completion
        [2019-08] Copyrighted by Catholic Parahyangan University 
 
-This repository shares the Arduino code that I made for designing a prototype of AS/RS machine [Automated Storage and Retrieval System].  
+This repository shares the Arduino code that I made for designing a prototype of AS/RS machine [Automated Storage and Retrieval System] following Mechatronics IoT Design Principle.  
 It is a single code that includes all the controls of both sensors and actuators. 
 
 Please feel free to look, copy, and modify the code, but if you do so, please ensure that you provide attribution by referencing the original author. 
