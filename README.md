@@ -14,15 +14,15 @@ It is a single code that includes all the controls of both sensors and actuators
 - initial stage (setting initial value)
 - loop stage (main contents : input and output process)
 
-Hardware Spesification used:
-Arduino Mega2560
-RAMP 1.4
-NEMA 17
-3 Limit Switches
-Keypad
-RFID
-LCD Display
-Push Buttons
+Hardware spesifications that is used are as follows:
+1. Arduino Mega2560 
+2. RAMP 1.4 Shield 
+3. NEMA 17 Stepper Motor 
+4. 3 Limit Switches (for each axes movement)
+5. Keypad (Coordinate Inputs)
+7. RFID Sensors and RFID Cards [Will be replaced by Barcode Scanner later in the future]
+8. LCD Display 
+9. Push Buttons (for manual adjustment input)
 
 For more details on the design and test results, please see the research publication report.
 IOP Conference Series: Materials Science and Engineering
