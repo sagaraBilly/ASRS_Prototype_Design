@@ -26,7 +26,7 @@ Electronics hardware components that are used are as follows:
 10. Power Supply 12A 20V
 11. Potentiometer or possibly variable resistor.
 
-Electronic Schematic<br>
+Electronic Schematic:<br>
 ![Alt text](Electrical-Components-Design.png)
 
 CAD Mechanical Design:<br>
