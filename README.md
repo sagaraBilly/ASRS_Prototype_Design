@@ -27,9 +27,10 @@ Electronics hardware components that are used are as follows:
 11. Potentiometer or possibly variable resistor.
 
 <br>
-![Alt text](Electrical Components Design.png)
+![Alt text](Electrical-Components-Design.png)
 <br>
-![Alt text](ASRS Prototype Engineering Drawing.png)
+![Alt text](ASRS-Prototype-Engineering-Drawing.png)
+<br>
 
 All the design image is included in the repository except the CAD file. 
 
