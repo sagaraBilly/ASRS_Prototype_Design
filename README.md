@@ -23,7 +23,7 @@ Electronics hardware components that are used are as follows:
 7. RFID Sensors and RFID Cards [Will be replaced by Barcode Scanner later in the future]
 8. LCD Display 
 9. Push Buttons (for manual adjustment input)
-10. Power Supply 12A 20V
+10. Power Supply 12V 20A
 11. Potentiometer or possibly variable resistor.
 
 Electronic Schematic:<br>
