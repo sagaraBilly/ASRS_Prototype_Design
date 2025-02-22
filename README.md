@@ -32,6 +32,9 @@ Electronic Schematic:<br>
 CAD Mechanical Design:<br>
 ![Alt text](ASRS-Prototype-Engineering-Drawing.png)
 
+End/Finish Product:<br>
+![Alt text](finish_product.jpg)
+
 All the design image is included in the repository except the CAD file. 
 For more details regarding the mechanical components, test results, detail analysis, please see the research publication.
 IOP Conference Series: Materials Science and Engineering
