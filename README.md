@@ -36,7 +36,7 @@ End/Finish Product:<br>
 ![Alt text](finish_product.jpg)
 
 All the design image is included in the repository except the CAD file.   
-For more details regarding the mechanical components, test results, detail analysis, please refer to my published research paper.  
+For more information regarding the mechanical components, test results, and detailed analysis, please refer to my published research paper.  
 IOP Conference Series: Materials Science and Engineering
 
 
