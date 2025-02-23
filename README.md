@@ -35,8 +35,8 @@ CAD Mechanical Design:<br>
 End/Finish Product:<br>
 ![Alt text](finish_product.jpg)
 
-All the design image is included in the repository except the CAD file. 
-For more details regarding the mechanical components, test results, detail analysis, please see the research publication.
+All the design image is included in the repository except the CAD file.   
+For more details regarding the mechanical components, test results, detail analysis, please refer to my published research paper.  
 IOP Conference Series: Materials Science and Engineering
-https://iopscience.iop.org/article/10.1088/1757-899X/847/1/012072
+
 
